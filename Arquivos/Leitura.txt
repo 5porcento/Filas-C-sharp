@@ -1,0 +1,2 @@
+﻿Linha 1 de leitura
+Linha 2 de leitura
